@@ -45,7 +45,9 @@
     .s-col-full {
         width: 100% !important;
     }
-
+    .pd-16 {
+        padding-left: 16px;
+    }
     .s-mt-8 {
         margin-top: 8px !important;
     }
@@ -94,5 +96,9 @@
 
     .contact-form {
         margin-top: 32px;
+    }
+
+    .contact-form .form-submit-btn {    
+        max-width: calc(100% - 16px);   
     }
 }    

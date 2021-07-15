@@ -362,8 +362,7 @@ html {
 }
 
 .contact-form input {
-
-    font-size: 15px;
+    font-size: 18px;
 }
 
 
@@ -377,7 +376,7 @@ html {
     background-color: #000;
     color: #fff;
     border: 1px solid #000;
-    padding: 10px 16px;
+    padding: 14px 16px;
     float: right; 
     margin-right: 8px;
     -webkit-appearance: none;
